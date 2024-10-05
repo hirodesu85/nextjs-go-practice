@@ -4,7 +4,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"context"
 	"log"
-	"nextjs-go-practice/ent"
+	"github.com/hirodesu85/nextjs-go-practice/ent"
 	_ "github.com/lib/pq"
 )
 
